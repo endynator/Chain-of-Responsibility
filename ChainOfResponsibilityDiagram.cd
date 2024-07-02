@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="dotnet.Chain.BaseHandler&lt;T&gt;">
+    <Position X="9.25" Y="0.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>QgAAAAAgAACAAAgAAgAAAAEAAAIAAAAAAAAEAAAEAAQ=</HashCode>
+      <FileName>Chain\BaseHandler.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="dotnet.Chain.BaseHandler">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QgAAAAAgAACAAAgAAgAAAAEAAAAAAAAAAAAEAAAEAAQ=</HashCode>
+      <FileName>Chain\BaseHandler.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="dotnet.Chain.NeedInBackupValidatorAttribute">
+    <Position X="16" Y="4" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQgAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Chain\NeedInBackupValidatorAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dotnet.Chain.TypeHandler&lt;T&gt;">
+    <Position X="10.75" Y="4.5" Width="5" />
+    <InheritanceLine Type="dotnet.Chain.BaseHandler&lt;T&gt;" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="13.5" Y="2.188" />
+        <Point X="13.875" Y="2.188" />
+        <Point X="13.875" Y="4.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAACAAAAAAgAAAAAAAAIgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Chain\TypeHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dotnet.Chain.VoidHandler">
+    <Position X="7.5" Y="5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Chain\VoidHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="dotnet.Chain.IHandler">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Chain\IHandler.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="dotnet.Chain.IHandler&lt;T&gt;">
+    <Position X="14.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Chain\IHandler.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="dotnet.Chain.IRollbackable&lt;T, R&gt;">
+    <Position X="16" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Chain\IRollbackable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="dotnet.Chain.IRollbackable&lt;T&gt;">
+    <Position X="16" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Chain\IRollbackable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="dotnet.Chain.IRollbackable">
+    <Position X="18" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Chain\IRollbackable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
