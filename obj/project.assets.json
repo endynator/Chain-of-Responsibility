@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\dotnet\\dotnet.csproj",
-      "projectName": "dotnet",
-      "projectPath": "D:\\Projects\\dotnet\\dotnet.csproj",
+      "projectUniqueName": "D:\\Projects\\CoR\\CoR.csproj",
+      "projectName": "CoR",
+      "projectPath": "D:\\Projects\\CoR\\CoR.csproj",
       "packagesPath": "C:\\Users\\timdo\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\dotnet\\obj\\",
+      "outputPath": "D:\\Projects\\CoR\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\vs\\Shared\\NuGetPackages"

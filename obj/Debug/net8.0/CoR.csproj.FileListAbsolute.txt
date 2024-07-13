@@ -1,0 +1,11 @@
+D:\Projects\CoR\bin\Debug\net8.0\CoR.deps.json
+D:\Projects\CoR\bin\Debug\net8.0\CoR.dll
+D:\Projects\CoR\bin\Debug\net8.0\CoR.pdb
+D:\Projects\CoR\obj\Debug\net8.0\CoR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CoR\obj\Debug\net8.0\CoR.AssemblyInfoInputs.cache
+D:\Projects\CoR\obj\Debug\net8.0\CoR.AssemblyInfo.cs
+D:\Projects\CoR\obj\Debug\net8.0\CoR.csproj.CoreCompileInputs.cache
+D:\Projects\CoR\obj\Debug\net8.0\CoR.dll
+D:\Projects\CoR\obj\Debug\net8.0\refint\CoR.dll
+D:\Projects\CoR\obj\Debug\net8.0\CoR.pdb
+D:\Projects\CoR\obj\Debug\net8.0\ref\CoR.dll
