@@ -8,6 +8,12 @@ namespace CoR
 {
     static class Utils
     {
+        public static T? ExecuteAndReturnNull<T>(Action<object[]> action, params object[] parameters)
+        { 
+            action(parameters);
+            return default;
+        }
+
         public static object? CallGenericMethod(IHandlerInterface handlerInterface, Type genericType, object parameter)
         {
             // Get the type of the handlerInterface object
